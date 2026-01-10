@@ -1,4 +1,4 @@
-# Med_Chatbot
+# CivicBuddy
 
 <h1>Intelligent Chatbot Powered by RAG & Gemini Flash</h1>
 <hr>
