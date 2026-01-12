@@ -1,7 +1,5 @@
-# CivicBuddy
+# CivicBuddy : An intelligent RAG based Chatbot Powered Gemini
 
-<h1>Intelligent Chatbot Powered by RAG & Gemini Flash</h1>
-<hr>
 
 <p>This project presents a high-performance chatbot system designed to minimize AI hallucinations using Retrieval-Augmented Generation (RAG). It seamlessly combines generative power with precise, context-driven retrieval for highly relevant and accurate responses.</p>
 <hr>
